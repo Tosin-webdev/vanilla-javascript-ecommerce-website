@@ -1,0 +1,196 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "1"
+      },
+      "fields": {
+        "title": "T-shirt",
+        "price": 10.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/newshirt1.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2"
+      },
+      "fields": {
+        "title": "Metal analog men's watch",
+        "price": 12.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/watch2.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3"
+      },
+      "fields": {
+        "title": "Galaxy watch 2",
+        "price": 12.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/watch1.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4"
+      },
+      "fields": {
+        "title": "Submarine Cap",
+        "price": 11.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/cap.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5"
+      },
+      "fields": {
+        "title": "Outdoor canvas",
+        "price": 23.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/shoe3.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6"
+      },
+      "fields": {
+        "title": "A's cap",
+        "price": 19.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/photo3.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "7"
+      },
+      "fields": {
+        "title": "Sonic T-shirt",
+        "price": 24.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/newshirt4.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "Flower necklace",
+        "price": 39.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/newnecklace3.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "9"
+      },
+      "fields": {
+        "title": "Men T-shirt 2",
+        "price": 30.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/newshirt5.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10"
+      },
+      "fields": {
+        "title": "Oppo watch",
+        "price": 18.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/watch3.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "11"
+      },
+      "fields": {
+        "title": "Lace canvas",
+        "price": 35.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/shoe4.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "12"
+      },
+      "fields": {
+        "title": "Female trainers",
+        "price": 26.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/shoe2.jpg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
