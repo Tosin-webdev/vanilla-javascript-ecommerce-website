@@ -28,10 +28,6 @@ let buttonsDOM = [];
 class Products {
   async getProducts() {
     try {
-      // let contentful = await client.getEntries({
-      //   content_type: "chanelStoreProducts",
-      // });
-
       let result = await fetch("package.json");
       let data = await result.json();
       let products = data.items;
